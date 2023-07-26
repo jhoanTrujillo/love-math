@@ -1,0 +1,7 @@
+{
+  "background.enabled": true,
+  "background.customImages": [
+    "fila:",
+    "file://Documents/wallpaper/gondola_lake.jpg"
+  ]
+}
